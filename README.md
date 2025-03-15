@@ -17,7 +17,7 @@ This is a Plotly Dash application for Managing personal finances and monitoring 
 
 * Clone the repo, including the example data:
 ```
-git clone https://github.com/wnhoj/streaming-metrics.git
+git clone https://github.com/RamezEssam/Accountly.git
 ```
 * Create and activate a new virtual environment:
 ```
