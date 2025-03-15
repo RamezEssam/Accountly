@@ -21,7 +21,7 @@ git clone https://github.com/RamezEssam/Accountly.git
 ```
 * Create and activate a new virtual environment:
 ```
-cd streaming-metrics
+cd Accountly
 python -m venv venv
 source venv/bin/activate
 ```
