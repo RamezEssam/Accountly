@@ -1,0 +1,4 @@
+{
+    "summary" : "A quick overview.\n\nThis figure plots the Expense Category (x) against the Total Expeneses (y). Each selected Category is represented by a bar.",
+    "growth" : "This represents the net changes for the selected period for each expense category, a vertical bar upwards represents a increase in expenses and a vertical bar downwards represents a decrease."
+}
