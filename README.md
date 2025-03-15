@@ -23,7 +23,7 @@ git clone https://github.com/RamezEssam/Accountly.git
 ```
 cd Accountly
 python -m venv venv
-source venv/bin/activate
+venv\Scripts\activate.bat
 ```
 * Install requirements:
 ```
