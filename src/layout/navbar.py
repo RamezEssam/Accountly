@@ -10,7 +10,7 @@ navbar = dbc.NavbarSimple(
                     alt="Source Code",
                     id="github-logo",
                 ),
-                href="https://github.com/wnhoj/streaming-metrics",
+                href="https://github.com/RamezEssam/Accountly",
                 target="_blank",
                 className="p-1",
             )
